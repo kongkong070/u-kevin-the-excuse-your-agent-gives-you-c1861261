@@ -1,8 +1,8 @@
 # The Excuse Your Agent Gives You
 
-![bounty](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)
-![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/rank.svg)
-![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/reward.svg)
+[![make.fun](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)
+[![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 Entry for [The Excuse Your Agent Gives You](https://make.fun/c/u-kevin-the-excuse-your-agent-gives-you-c1861261) by [@kongkong070](https://make.fun/r/hdtrjaj5).
 
