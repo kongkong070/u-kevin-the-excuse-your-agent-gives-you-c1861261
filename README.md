@@ -1,6 +1,6 @@
 # The Excuse Your Agent Gives You
 
-[![make.fun](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)
+[![make.fun](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 [![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 [![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/kongkong070/u-kevin-the-excuse-your-agent-gives-you-c1861261/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
